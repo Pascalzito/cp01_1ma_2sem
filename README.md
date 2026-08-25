@@ -1,2 +1,4 @@
 # cp01_1ma_2sem
-checkpoint
+
+Checkpoint de Computational Thinking for Engineering
+Lição de Listas e Dicionários
